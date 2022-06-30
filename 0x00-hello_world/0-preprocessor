@@ -1,2 +1,2 @@
 #!/bin/bash
-task0
+gcc -E $FILE -o c
