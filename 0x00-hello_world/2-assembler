@@ -1,2 +1,2 @@
 #!/bin/bash
-task2
+gcc $CFILE -S
