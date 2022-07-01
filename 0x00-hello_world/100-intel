@@ -1,1 +1,2 @@
-task7
+#!/bin/bash
+gcc -S -masm=intel $CFILE > main.s
