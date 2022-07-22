@@ -1,1 +1,1 @@
-task0
+static libraries
